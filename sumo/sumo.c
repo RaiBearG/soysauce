@@ -1,4 +1,4 @@
-task(main){
+task main(){
 	//testing commit functions 
 	//shahzeen here
 	
